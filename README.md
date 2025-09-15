@@ -22,7 +22,7 @@ Project aimed to be secure by default with input validation, hashed passwords (b
 
 ## Interface
 
-![Student Course Feedback System](Screenshot 2025-09-15 142923.png)  
+![Student Course Feedback System](images/Screenshot 2025-09-15 142530.png)  
 
 ---
 
